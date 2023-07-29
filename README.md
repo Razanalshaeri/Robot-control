@@ -11,4 +11,6 @@ Visual Studio Code provides basic support for HTML programming out of the box.
 publishes free HTML templates.
 ## process
 When you press any button for the direction of the robot, it will move to the page of the entered data. In the data base, the last step will be added.
+### when choose button of Forward
+<img width="396" alt="WebTask-FORWARD" src="https://github.com/Razanalshaeri/Robot-control/assets/135154136/aba16811-ca1f-45a7-a0f1-22838e05baff">
 
