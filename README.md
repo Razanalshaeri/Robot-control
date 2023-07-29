@@ -14,4 +14,6 @@ When you press any button for the direction of the robot, it will move to the pa
 ### when choose button of Forward
 <img width="396" alt="WebTask-FORWARD" src="https://github.com/Razanalshaeri/Robot-control/assets/135154136/aba16811-ca1f-45a7-a0f1-22838e05baff">
 <img width="179" alt="WebTask-FORWARD-result" src="https://github.com/Razanalshaeri/Robot-control/assets/135154136/01240d58-c32b-445c-acff-0c3633682f16">
+<img width="257" alt="WebTask-FORWARD-result-database" src="https://github.com/Razanalshaeri/Robot-control/assets/135154136/4bd38adb-be8e-460d-9143-4515ca03ef79">
+
 
